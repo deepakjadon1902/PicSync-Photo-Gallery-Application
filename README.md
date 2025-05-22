@@ -142,7 +142,7 @@ Gaming 🎮 | Cooking 👩‍🍳 | Shopping 🛍️
 ```bash
 # Clone the repo
 git clone https://github.com/deepakjadon1902/PicSync-Photo-Gallery-Application.git
-cd picsync
+cd PicSync-Photo-Gallery-Application
 
 # Install dependencies
 npm install
