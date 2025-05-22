@@ -141,7 +141,7 @@ Gaming 🎮 | Cooking 👩‍🍳 | Shopping 🛍️
 
 ```bash
 # Clone the repo
-git clone https://github.com/deepakjadon1902/PicSync.git
+git clone https://github.com/deepakjadon1902/PicSync-Photo-Gallery-Application.git
 cd picsync
 
 # Install dependencies
